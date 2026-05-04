@@ -1,0 +1,6 @@
+{
+  "name": "agent-gorn-quiz-de-conocimientos-generale-morjoy95",
+  "version": "1.0.0",
+  "description": "Proyecto de Gorn [Gen4]: quiz de conocimientos generales con puntuacion",
+  "main": "index.js"
+}
